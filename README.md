@@ -1,1 +1,3 @@
-This project is for developing my own skills. All files can be developed further and must give credit.
+document.addEventListener("DOMContentLoaded", () => {
+console.log("Frontend is loaded!");
+});
